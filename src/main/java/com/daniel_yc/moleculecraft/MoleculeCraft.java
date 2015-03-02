@@ -9,6 +9,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
+import com.daniel_yc.moleculecraft.block.BlockManager;
 import com.daniel_yc.moleculecraft.handler.ConfigurationHandler;
 import com.daniel_yc.moleculecraft.item.ItemManager;
 import com.daniel_yc.moleculecraft.proxy.ServerProxy;
@@ -39,6 +40,8 @@ public class MoleculeCraft {
 	public void Init(FMLInitializationEvent event){
 		ItemManager.DefineItems();
 		ItemManager.RegisterItems();
+		BlockManager.DefineBlocks();
+		BlockManager.RegisterBlocks();
 		TextureManager.registerItemTextures();
 		TextureManager.registerBlockTextures();
 		

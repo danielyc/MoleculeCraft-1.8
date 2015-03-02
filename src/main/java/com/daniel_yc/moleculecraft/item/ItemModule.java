@@ -7,7 +7,7 @@ public class ItemModule extends Item {
 
 	public ItemModule(){
 		super();
-		setCreativeTab(CreativeTabs.tabMisc);
-		setUnlocalizedName("Module");
+		this.setCreativeTab(CreativeTabs.tabMisc);
+		this.setUnlocalizedName("Module");
 	}
 }
