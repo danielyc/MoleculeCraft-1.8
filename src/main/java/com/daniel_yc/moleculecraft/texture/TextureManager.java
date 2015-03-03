@@ -11,6 +11,7 @@ public class TextureManager {
 	
 	public static void registerItemTextures(){
 		Minecraft.getMinecraft().getRenderItem().getItemModelMesher().register(ItemManager.Module, 0, new ModelResourceLocation("moleculecraft:Module", "inventory"));
+		Minecraft.getMinecraft().getRenderItem().getItemModelMesher().register(ItemManager.TestItem, 0, new ModelResourceLocation("moleculecraft:TestItem", "inventory"));
 		
 		
 	}
