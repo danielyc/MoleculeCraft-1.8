@@ -1,1 +1,7 @@
 item.Module.name=Module
+item.TestItem.name=Testing item
+
+tile.TestBlock.name=Testing block
+
+
+itemGroup.MoleculeTab=MoleculeCraft

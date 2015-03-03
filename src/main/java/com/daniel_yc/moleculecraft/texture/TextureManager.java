@@ -18,6 +18,7 @@ public class TextureManager {
 	
 	public static void registerBlockTextures(){
 		Minecraft.getMinecraft().getRenderItem().getItemModelMesher().register(Item.getItemFromBlock(BlockManager.TestBlock), 0, new ModelResourceLocation("moleculecraft:TestBlock", "inventory"));
+		Minecraft.getMinecraft().getRenderItem().getItemModelMesher().register(Item.getItemFromBlock(BlockManager.TimeMachine), 0, new ModelResourceLocation("moleculecraft:TimeMachine", "inventory"));
 		
 		
 		

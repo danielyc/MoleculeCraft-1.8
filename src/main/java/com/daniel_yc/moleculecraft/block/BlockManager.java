@@ -7,12 +7,13 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 public class BlockManager {
 
 	public static Block TestBlock;
+	public static Block TimeMachine;
 	
 	
 	public static void DefineBlocks(){
 		
 		TestBlock = new TestBlock(Material.rock);
-		
+		TimeMachine = new TimeMachine(Material.rock);
 		
 		
 	}
@@ -20,6 +21,7 @@ public class BlockManager {
 	public static void RegisterBlocks(){
 		
 		GameRegistry.registerBlock(TestBlock, "TestBlock");
+		GameRegistry.registerBlock(TimeMachine, "TimeMachine");
 		
 		
 		
