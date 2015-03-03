@@ -26,6 +26,8 @@ public class MoleculeCraft {
 	@SidedProxy(clientSide = Reference.CLIENT_PROXY_CLASS, serverSide = Reference.SERVER_PROXY_CLASS)
 	public static ServerProxy proxy;
 	
+	public static final MoleculeTab MoleculeTab = new MoleculeTab("MoleculeTab");
+	
 	@EventHandler
 	public void preInit(FMLPreInitializationEvent event){
 		ConfigurationHandler.init(event.getSuggestedConfigurationFile());
