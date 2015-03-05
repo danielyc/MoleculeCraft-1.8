@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.daniel_yc.moleculecraft.reference.Reference"/>
 <fullyQualifiedTypeName name="net.minecraftforge.fml.common.Mod"/>
 <fullyQualifiedTypeName name="net.minecraftforge.fml.common.Mod.Instance"/>
 <fullyQualifiedTypeName name="net.minecraftforge.fml.common.SidedProxy"/>
@@ -10,17 +9,23 @@
 <fullyQualifiedTypeName name="net.minecraftforge.fml.common.FMLCommonHandler"/>
 <fullyQualifiedTypeName name="com.daniel_yc.moleculecraft.texture.TextureManager"/>
 <fullyQualifiedTypeName name="net.minecraft.client.Minecraft"/>
-<fullyQualifiedTypeName name="com.daniel_yc.moleculecraft.item.ItemManager"/>
 <fullyQualifiedTypeName name="net.minecraft.client.resources.model.ModelResourceLocation"/>
 <fullyQualifiedTypeName name="net.minecraft.block.Block"/>
 <fullyQualifiedTypeName name="net.minecraft.block.material.Material"/>
 <fullyQualifiedTypeName name="net.minecraft.creativetab.CreativeTabs"/>
-<fullyQualifiedTypeName name="net.minecraftforge.fml.common.registry.GameRegistry"/>
 <fullyQualifiedTypeName name="net.minecraft.item.Item"/>
-<fullyQualifiedTypeName name="com.daniel_yc.moleculecraft.block.BlockManager"/>
-<fullyQualifiedTypeName name="net.minecraft.item.ItemStack"/>
 <fullyQualifiedTypeName name="net.minecraft.entity.player.EntityPlayer"/>
 <fullyQualifiedTypeName name="net.minecraft.world.World"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.daniel_yc.moleculecraft.MoleculeCraft"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.common.registry.GameRegistry"/>
+<fullyQualifiedTypeName name="com.daniel_yc.moleculecraft.block.BlockManager"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemStack"/>
+<fullyQualifiedTypeName name="net.minecraftforge.oredict.ShapedOreRecipe"/>
+<fullyQualifiedTypeName name="com.daniel_yc.moleculecraft.item.ItemManager"/>
+<fullyQualifiedTypeName name="net.minecraft.init.Items"/>
+<fullyQualifiedTypeName name="com.daniel_yc.moleculecraft.crafting.CraftingManager"/>
+<fullyQualifiedTypeName name="net.minecraft.client.gui.GuiScreen"/>
+<fullyQualifiedTypeName name="com.daniel_yc.moleculecraft.reference.Reference"/>
+<fullyQualifiedTypeName name="net.minecraftforge.common.config.Configuration"/>
 </qualifiedTypeNameHistroy>

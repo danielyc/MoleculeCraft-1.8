@@ -1,7 +1,0 @@
-package com.daniel_yc.moleculecraft.block;
-
-import net.minecraft.block.Block;
-
-public class Day extends Block {
-
-}

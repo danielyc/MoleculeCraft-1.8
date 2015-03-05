@@ -1,24 +1,42 @@
-[16:04:06] [Client thread/INFO]: Setting user: Player420
-[16:04:09] [Client thread/INFO]: LWJGL Version: 2.9.2
-[16:04:11] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:MoleculeCraft
-[16:04:11] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[16:04:11] [Thread-8/INFO]: Initializing LWJGL OpenAL
-[16:04:11] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[16:04:11] [Thread-8/INFO]: OpenAL initialized.
-[16:04:12] [Sound Library Loader/INFO]: Sound engine started
-[16:04:14] [Client thread/INFO]: Created: 512x512 textures-atlas
-[16:04:15] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:MoleculeCraft
-[16:04:15] [Client thread/INFO]: SoundSystem shutting down...
-[16:04:15] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[16:04:15] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[16:04:15] [Thread-10/INFO]: Initializing LWJGL OpenAL
-[16:04:15] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[16:04:15] [Thread-10/INFO]: OpenAL initialized.
-[16:04:16] [Sound Library Loader/INFO]: Sound engine started
-[16:04:16] [Client thread/INFO]: Created: 512x512 textures-atlas
-[16:04:19] [Client thread/INFO]: Realms library version == 1.6.1
-[16:04:20] [MCO Availability Checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[16:04:20] [MCO Availability Checker #1/ERROR]: Couldn't connect to realms: 
-[16:04:29] [Client thread/INFO]: Stopping!
-[16:04:29] [Client thread/INFO]: SoundSystem shutting down...
-[16:04:29] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[21:17:24] [Client thread/INFO]: Setting user: Player203
+[21:17:26] [Client thread/INFO]: LWJGL Version: 2.9.2
+[21:17:29] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:MoleculeCraft
+[21:17:29] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[21:17:29] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[21:17:29] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[21:17:29] [Thread-8/INFO]: OpenAL initialized.
+[21:17:30] [Sound Library Loader/INFO]: Sound engine started
+[21:17:32] [Client thread/INFO]: Created: 512x512 textures-atlas
+[21:17:32] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:MoleculeCraft
+[21:17:33] [Client thread/INFO]: SoundSystem shutting down...
+[21:17:33] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[21:17:33] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[21:17:33] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[21:17:33] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[21:17:33] [Thread-10/INFO]: OpenAL initialized.
+[21:17:33] [Sound Library Loader/INFO]: Sound engine started
+[21:17:34] [Client thread/INFO]: Created: 512x512 textures-atlas
+[21:17:37] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[21:17:37] [Server thread/INFO]: Generating keypair
+[21:17:37] [Server thread/INFO]: Preparing start region for level 0
+[21:17:38] [Server thread/INFO]: Changing view distance to 12, from 10
+[21:17:38] [Server thread/INFO]: Player203[local:E:ef23dc2a] logged in with entity id 115 at (-897.1495920033277, 4.0, -680.9696621286207)
+[21:17:38] [Server thread/INFO]: Player203 joined the game
+[21:17:52] [Client thread/INFO]: [CHAT] peaceful, easy, normal, hard
+[21:17:53] [Server thread/INFO]: [Player203: Set game difficulty to Peaceful]
+[21:17:53] [Client thread/INFO]: [CHAT] Set game difficulty to Peaceful
+[21:18:02] [Server thread/INFO]: Player203 has just earned the achievement [Taking Inventory]
+[21:18:02] [Client thread/INFO]: [CHAT] Player203 has just earned the achievement [Taking Inventory]
+[21:18:05] [Server thread/INFO]: Saving and pausing game...
+[21:18:05] [Server thread/INFO]: Saving chunks for level 'testing facility'/Overworld
+[21:18:05] [Server thread/INFO]: Saving chunks for level 'testing facility'/Nether
+[21:18:05] [Server thread/INFO]: Saving chunks for level 'testing facility'/The End
+[21:18:07] [Server thread/INFO]: Stopping server
+[21:18:07] [Server thread/INFO]: Saving players
+[21:18:07] [Server thread/INFO]: Saving worlds
+[21:18:07] [Server thread/INFO]: Saving chunks for level 'testing facility'/Overworld
+[21:18:07] [Server thread/INFO]: Saving chunks for level 'testing facility'/Nether
+[21:18:07] [Server thread/INFO]: Saving chunks for level 'testing facility'/The End
+[21:18:12] [Client thread/INFO]: Stopping!
+[21:18:12] [Client thread/INFO]: SoundSystem shutting down...
+[21:18:12] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

@@ -1,4 +1,4 @@
-content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="net.minecraft.item.Item"><rhs name\="net.minecraft.item.Item"/></lhs></history>
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"/>
 content_assist_number_of_computers=13
 content_assist_proposals_background=255,255,255
 content_assist_proposals_foreground=0,0,0
@@ -9,7 +9,7 @@ org.eclipse.jdt.ui.formatterprofiles.version=12
 org.eclipse.jdt.ui.javadoclocations.migrated=true
 org.eclipse.jdt.ui.text.code_templates_migrated=true
 org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
-org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="true" context\="java" deleted\="false" description\="comment" enabled\="true" name\="comment">/**\n**\n**\n**\n**/</template></templates>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
 org.eclipse.jdt.ui.text.templates_migrated=true
 org.eclipse.jface.textfont=1|Monaco|11.0|0|COCOA|1|;
 proposalOrderMigrated=true

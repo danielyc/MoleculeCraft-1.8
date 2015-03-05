@@ -2,6 +2,7 @@ item.Module.name=Module
 item.TestItem.name=Testing item
 
 tile.TestBlock.name=Testing block
+tile.TimeMachine.name=TimeMachine
 
 
 itemGroup.MoleculeTab=MoleculeCraft
