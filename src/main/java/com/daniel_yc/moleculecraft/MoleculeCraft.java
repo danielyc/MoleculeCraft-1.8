@@ -10,6 +10,8 @@ import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
 import com.daniel_yc.moleculecraft.block.BlockManager;
+import com.daniel_yc.moleculecraft.crafting.CraftingManager;
+import com.daniel_yc.moleculecraft.creativetab.MoleculeTab;
 import com.daniel_yc.moleculecraft.handler.ConfigurationHandler;
 import com.daniel_yc.moleculecraft.item.ItemManager;
 import com.daniel_yc.moleculecraft.proxy.ServerProxy;
@@ -46,6 +48,7 @@ public class MoleculeCraft {
 		BlockManager.RegisterBlocks();
 		TextureManager.registerItemTextures();
 		TextureManager.registerBlockTextures();
+		CraftingManager.AddCraftingRecipies();
 		
 		
 		LogHelper.info("MoleculeCraft Initialization Complete");

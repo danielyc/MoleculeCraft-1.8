@@ -26,7 +26,8 @@ public class ItemTestItem extends Item {
 	@Override
 	public boolean onItemUse(ItemStack stack, EntityPlayer playerIn, World worldIn, BlockPos pos, EnumFacing side, float hitX, float hitY, float hitZ)
 	{
-		if(!playerIn.isSneaking())
+		return false;
+		/**if(!playerIn.isSneaking())
 		{
 			if(stack.getTagCompound() == null)
 			{
@@ -82,5 +83,6 @@ public class ItemTestItem extends Item {
 			return stack.getTagCompound().hasKey("coords");
 		}
 		return false;
-    }
+    }**/
+}
 }
