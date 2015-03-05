@@ -1,0 +1,5 @@
+package com.daniel_yc.moleculecraft.proxy;
+
+public class ClientProxy {
+
+}

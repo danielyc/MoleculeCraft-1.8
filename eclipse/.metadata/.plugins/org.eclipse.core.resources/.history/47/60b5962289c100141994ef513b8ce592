@@ -1,0 +1,7 @@
+package com.daniel_yc.moleculecraft.item;
+
+import net.minecraft.item.Item;
+
+public class ItemTestItem extends Item {
+
+}

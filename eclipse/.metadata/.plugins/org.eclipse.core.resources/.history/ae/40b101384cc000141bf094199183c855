@@ -1,0 +1,18 @@
+package com.daniel_yc.moleculecraft.texture;
+
+public class TextureManager {
+	
+	public static void registerItemTextures(){
+		
+		
+		
+	}
+	
+	public static void registerBlockTextures(){
+		
+		
+		
+		
+	}
+
+}

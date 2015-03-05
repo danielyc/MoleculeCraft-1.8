@@ -1,0 +1,27 @@
+package com.daniel_yc.moleculecraft.block;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.entity.player.EntityPlayer;
+import net.minecraft.world.World;
+
+public class TestBlock extends Block {
+
+	protected TestBlock(Material materialIn) {
+		super(materialIn);
+		this.setCreativeTab(CreativeTabs.tabBlock);
+		this.setUnlocalizedName("TestBlock");
+		
+		
+	}
+	public boolean onBlockActivated(World world, int x, int y, int z, EntityPlayer player, int side, float hitX, float hitY, float hitZ){
+        //world.playSoundEffect(x, y, z, "advancedmod:flagFlap", 1.0F, player.getRNG().nextFloat() + 0.5F);
+		((Object) world).setBlock(x, y + 1, z, BlockManager.TestBlock);
+        //if(!world.isRemote) {
+        //    world.createExplosion(player, x, y, z, 3, true);
+        }
+        return true;
+	}
+
+}

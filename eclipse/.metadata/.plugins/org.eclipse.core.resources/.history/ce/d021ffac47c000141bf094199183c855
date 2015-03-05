@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MoleculeCraft",
+  "name": "MoleculeCraft",
+  "description": "MoleculeCraft is a mod that can change the structure of blocks, liquids and gases.",
+  "version": "Alpha 0.1",
+  "mcversion": "1.8.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Daniel_YC"],
+  "credits": "The Forge and FML guys, for making this awesome API and Pahimar for helping out",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

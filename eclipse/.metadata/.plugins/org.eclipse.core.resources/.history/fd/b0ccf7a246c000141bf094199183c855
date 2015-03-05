@@ -1,0 +1,13 @@
+package com.daniel_yc.moleculecraft;
+
+import net.minecraftforge.fml.common.Mod;
+
+import com.daniel_yc.moleculecraft.reference.Reference;
+
+@Mod(modid = Reference.MOD_ID, name = Reference.MOD_NAME, version = Reference.VERSION)
+public class MoleculeCraft {
+	
+	@Instance(Reference.MOD_ID)
+	public static MoleculeCraft instance;
+
+}
